@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "212928222654",
+    "firebase_url": "https://carfixphoneverification.firebaseio.com",
+    "project_id": "carfixphoneverification",
+    "storage_bucket": "carfixphoneverification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212928222654:android:7d2d9be68e6c72a8",
+        "android_client_info": {
+          "package_name": "com.example.badgenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212928222654-1m6ss5727vveelnm771kfc9k9fgr88af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.badgenotification",
+            "certificate_hash": "0d49837e1ac736624fab8cdb086a132c91c8ff44"
+          }
+        },
+        {
+          "client_id": "212928222654-t9qs3d5rhqats9cg0dk8c474qbf1bbs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpN3KsY5VXiZeRk90wOmLxdxCjIwN8mhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212928222654-t9qs3d5rhqats9cg0dk8c474qbf1bbs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212928222654:android:20d4beadca042b6f",
+        "android_client_info": {
+          "package_name": "com.skytop.carfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212928222654-oaemchc5mmhnkcl0t2cbmmd4lmi54214.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skytop.carfix",
+            "certificate_hash": "0d49837e1ac736624fab8cdb086a132c91c8ff44"
+          }
+        },
+        {
+          "client_id": "212928222654-sqhtteku9vs0m0vkv68ln98f7a6inugq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skytop.carfix",
+            "certificate_hash": "100e14120f5b77c91e2225d79816eadf2f019eec"
+          }
+        },
+        {
+          "client_id": "212928222654-f85te5n26ku22rf2m9pdt2ce9tpkv7aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skytop.carfix",
+            "certificate_hash": "96740cfa83c08ddf14165badffdc531bbec68494"
+          }
+        },
+        {
+          "client_id": "212928222654-qa5r9ndki1ujgtlj1675kufkrnmf3doa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skytop.carfix",
+            "certificate_hash": "52b0b0a77fa9db0ec7e0f0295d311c795807a97c"
+          }
+        },
+        {
+          "client_id": "212928222654-t9qs3d5rhqats9cg0dk8c474qbf1bbs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpN3KsY5VXiZeRk90wOmLxdxCjIwN8mhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212928222654-t9qs3d5rhqats9cg0dk8c474qbf1bbs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
